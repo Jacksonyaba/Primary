@@ -15,13 +15,13 @@
             <h1 class="font-bold text-xl mb-2 md:mb-0">Mentor Nursery & Primary School</h1>
             <div class="flex flex-col md:flex-row md:items-center w-full md:w-auto justify-between md:justify-end space-y-2 md:space-y-0 md:space-x-4">
                 <nav class="grid grid-cols-2 gap-2 md:flex md:space-x-4 text-end md:text-right">
-                    <a href="index.php" class="block px-3 py-2 hover:text-blue-800 rounded">Home</a>
-                    <a href="about.php" class="block px-3 py-2 hover:text-blue-800 rounded">About</a>
-                    <a href="academics.php" class="block px-3 py-2 hover:text-blue-800 rounded">Academics</a>
-                    <a href="gallery.php" class="block px-3 py-2 hover:text-blue-800 rounded">Gallery</a>
-                    <a href="news.php" class="block px-3 py-2 hover:text-blue-800 rounded">News</a>
-                    <a href="admissions.php" class="block px-3 py-2 hover:text-blue-800 rounded">Admissions</a>
-                    <a href="contact.php" class="block px-3 py-2 hover:text-blue-800 rounded">Contact</a>
+                    <a href="../index.php" class="block px-3 py-2 hover:text-blue-800 rounded">Home</a>
+                    <a href="../about.php" class="block px-3 py-2 hover:text-blue-800 rounded">About</a>
+                    <a href="../academics.php" class="block px-3 py-2 hover:text-blue-800 rounded">Academics</a>
+                    <a href="../gallery.php" class="block px-3 py-2 hover:text-blue-800 rounded">Gallery</a>
+                    <a href="../news.php" class="block px-3 py-2 hover:text-blue-800 rounded">News</a>
+                    <a href="../admissions.php" class="block px-3 py-2 hover:text-blue-800 rounded">Admissions</a>
+                    <a href="../contact.php" class="block px-3 py-2 hover:text-blue-800 rounded">Contact</a>
                 </nav>
                 <!-- Google Translate Widget -->
                 <div id="google_translate_element" class="ml-auto"></div>
